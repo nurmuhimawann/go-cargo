@@ -1,2 +1,3 @@
 # go-cargo
-project akhir matakuliah algoritma dan pemrograman II. progam dikembangkan menggunakan bahasa pemrograman python dan pendekatan algoritma knapsack problem
+project akhir matakuliah algoritma dan pemrograman II. progam dikembangkan menggunakan bahasa pemrograman python dan pendekatan algoritma knapsack problem. Knapsack problem merupakan masalah di mana orang dihadapkan pada persoalan optimasi pada pemilihan benda yang dapat dimasukkan ke dalam sebuah wadah yang memiliki keterbatasan ruang atau daya tampung. Dengan adanya optimasi dalam pemilihan benda yang akan dimasukkan ke dalam wadah tersebut diharapkan dapat menghasilkan keuntungan yang maksimum.
+module request digunakan untuk mengirimkan HTTP requests. sedangkan, module tkinter digunakan untuk menyusun graphical user interface pada aplikasi. Kemudian, data pada aplikasi ini disimpan menggunakan database mongoDB yang dapat diakses melalui API.
